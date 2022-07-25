@@ -1,0 +1,10 @@
+.barra-preta {
+    background: #000000;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.barra-preta img {
+    height: 35px;
+    width: 75px;
+}
