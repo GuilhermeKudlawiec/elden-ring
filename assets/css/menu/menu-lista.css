@@ -1,0 +1,8 @@
+.menu__lista {
+    align-items: center;
+    display: flex;
+}
+
+.menu__lista li:last-child a {
+    margin-right: 0px;
+}
