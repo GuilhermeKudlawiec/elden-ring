@@ -1,0 +1,7 @@
+.menu-secundario__lista {
+    display: flex;
+}
+
+.menu-secundario__lista li:last-child a {
+    margin-right: 0;
+} 
